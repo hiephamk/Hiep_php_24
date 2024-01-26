@@ -69,7 +69,7 @@
     Take a screenshot that confirms your development 
     environment setup and include it as an image in the "ex1.php" file.
     </h3>
-    <img src="./images/Hiep_ex1_php.png" alt="Web development environment" style="width: 80%;">
+    <img src="./images/Hiep_ex1_php.png" alt="Web development environment" style="width: 100%;">
 
 
 </body>
