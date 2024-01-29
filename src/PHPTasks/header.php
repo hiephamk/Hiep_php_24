@@ -20,11 +20,7 @@
                     <div class="text-success fw-blod" style="align-items: center">
                         <h2 class="fw-bold">Hiep Huynh</h2>
                     </div>
-                    <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="index.php">
-                            <h3>Home</h3>
-                        </a>
-                    </li>
+
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="Ex1.php">
                             <h3>Ex1</h3>
@@ -33,6 +29,31 @@
                     <li class="nav-item">
                         <a class="nav-link" href="Ex2.php">
                             <h3>Ex2</h3>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Ex3.php">
+                            <h3>Ex3</h3>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Ex4.php">
+                            <h3>Ex4</h3>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Ex5.php">
+                            <h3>Ex5</h3>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Ex6.php">
+                            <h3>Ex6</h3>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Ex7.php">
+                            <h3>Ex7</h3>
                         </a>
                     </li>
                     <li class="nav-item">
