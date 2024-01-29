@@ -1,0 +1,44 @@
+#ch {
+    display: none;
+  }
+  #ch:checked ~ .hide-content {
+    display: block;
+  }
+  #ch:checked ~ .sm {
+    display: none;
+  }
+  label {
+    display: inline-block;
+    cursor: pointer;
+    color: #edf5af;
+    background-color: rgb(15, 112, 79);
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bolder;
+  }
+  .hide-content {
+    display: none;
+  }
+
+  a :hover {
+    background-color: antiquewhite;
+  }
+  @media screen and (max-width: 1400) {
+    .card {
+      width: 100%;
+    }
+  }
+  ul,
+  li {
+    list-style: none;
+  }
+  .card {
+    background-image: url(img/background-image.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  }
+  .card-body {
+    max-width: 1400px;
+  }
