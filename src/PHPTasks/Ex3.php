@@ -26,7 +26,7 @@ include 'header.php';
             <form method="post" action="process.php">
                 First Name: <input type="text" name="firstname"><br><br>
                 Last Name: <input type="text" name="lastname"><br><br>
-                <input type="submit" value="Submit"> <br><br>
+                <button type="submit" class="btn btn-primary">Submit</button>
             </form>
         </div>
         <br>
