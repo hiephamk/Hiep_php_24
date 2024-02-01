@@ -2,12 +2,8 @@
 $title = "Ex2.php";
 include 'header.php';
 ?>
-<div class="main-page container row">
-    <?php
-    include "Left_page.php";
-    ?>
-
-    <div class="col-8">
+<div class="main-page container">
+    <div>
         <h1>Exercise 2: Create universal header, footer, or sidebar as per your layout done in the previous course.</h1>
         <ol>
             <li>

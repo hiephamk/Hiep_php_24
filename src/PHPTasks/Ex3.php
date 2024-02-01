@@ -6,14 +6,14 @@ include 'header.php';
     <div class="left-side col-4">
         <h1>List of tasks:</h1>
         <ol>
-            <li><a href="#Q1">Q1</a></li>
-            <li><a href="#Q2">Q2</a></li>
-            <li><a href="#Q3">Q3</a></li>
-            <li><a href="#Q4">Q4</a></li>
-            <li><a href="#Q5">Q5</a></li>
-            <li><a href="#Q6">Q6</a></li>
-            <li><a href="#Q7">Q7</a></li>
-            <li><a href="#Q8">Q8</a></li>
+            <li><a href="#Q1">Question_1</a></li>
+            <li><a href="#Q2">Question_2</a></li>
+            <li><a href="#Q3">Question_3</a></li>
+            <li><a href="#Q4">Question_4</a></li>
+            <li><a href="#Q5">Question_5</a></li>
+            <li><a href="#Q6">Question_6</a></li>
+            <li><a href="#Q7">Question_7</a></li>
+            <li><a href="#Q8">Question_8</a></li>
         </ol>
     </div>
     <div class="right-side col-8">
@@ -132,9 +132,6 @@ include 'header.php';
                 last modification time of a file. Hint: Use predefined variable $_SERVER, basename function to get the
                 filename, filetime function to get the last modified time & date function to print the date and time
             </h1>
-            <?php
-
-            ?>
         </div>
     </div>
 </div>

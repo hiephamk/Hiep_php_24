@@ -1,9 +1,8 @@
 <?php $title = 'Ex1.php'; ?>
 <?php include 'header.php'; ?>
 
-<div class="main-page container row">
-    <?php include "Left_page.php"; ?>
-    <div class="col-8">
+<div class="main-page container">
+    <div>
         <h3> 3.1 Write PHP code to output the following message: Hello world! My name is "Hiep"
         </h3>
         <?php
