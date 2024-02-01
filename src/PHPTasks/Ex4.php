@@ -15,6 +15,13 @@
         </ol>
     </div>
     <div class="col-8">
-        <h1>Put something here</h1>
+        <div class="Q2">
+            <h1>If-Else: Write a PHP script to get inputs (age and name) from the user and based on their age, decide if
+                he/she is eligible for voting. (18 or more than 18 years is eligible for voting, use form to get user
+                input).</h1>
+        </div>
+        <?php
+
+        ?>
     </div>
 </div>
