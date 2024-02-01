@@ -42,39 +42,37 @@ include 'header.php';
                 $g2 = 4;
                 $g3 = 5;
                 ?>
-                <table>
-                    <tr>
-                        <th>S.n.</th>
-                        <th>Name</th>
-                        <th>Grade</th>
-                    </tr>
-                    <tr>
-                        <td>1</td>
-                        <td>John</td>
-                        <td>
-                            <?php
-                            echo $g1
-                                ?>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>2</td>
-                        <td>Alice</td>
-                        <td>
-                            <?php
-                            echo $g2
-                                ?>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>3</td>
-                        <td>Bob</td>
-                        <td>
-                            <?php
-                            echo $g3
-                                ?>
-                        </td>
-                    </tr>
+                <table class="table table-success text-center">
+                    <thead>
+                        <tr>
+                            <th scope="col">S.n</th>
+                            <th scope="col">Name</th>
+                            <th scope="col">Grade</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">1</th>
+                            <td>John</td>
+                            <td>
+                                <?php echo "{$g1}" ?>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row">2</th>
+                            <td>Alice</td>
+                            <td>
+                                <?php echo "{$g2}" ?>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th scope="row">3</th>
+                            <td>Bob</td>
+                            <td>
+                                <?php echo "{$g3}" ?>
+                            </td>
+                        </tr>
+                    </tbody>
                 </table>
             </div>
         </div>
