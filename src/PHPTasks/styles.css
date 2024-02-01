@@ -16,3 +16,24 @@
     width: 100%;
 
   }
+  .form-type-1{
+    width: 300px;
+    display: flex;
+    margin:10px;
+    color:black;
+    font-size: 20px;
+
+  }
+  .form-label{
+    min-width: 100px;
+  }
+  .form-button{
+    background-color: rgb(18, 7, 232);
+    color:azure
+  }
+  .php-styles{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(7, 15, 238);
+    font-style: italic;
+  }

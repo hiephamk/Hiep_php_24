@@ -18,3 +18,4 @@
         <h1>Put something here</h1>
     </div>
 </div>
+<?php include "footer.php" ?>
